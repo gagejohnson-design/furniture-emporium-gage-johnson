@@ -1,0 +1,27 @@
+html {
+  background-color: #ddd2bd;
+}
+
+h1 {
+  font-family: "Montserrat", sans-serif;
+  color: #4a3320;
+}
+
+h2 {
+  font-family: "Montserrat", sans-serif;
+  color: #2b2723;
+}
+
+.card {
+  background-color: #c9d1c0;
+  padding: 24px;
+  width: 557px;
+  margin: 10px;
+  font-family: "Inter", sans-serif;
+  color: #2b2723;
+}
+
+.add-to-cart {
+  background-color: #6b4b2a;
+  color: #ffffff;
+}
