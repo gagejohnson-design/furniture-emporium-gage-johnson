@@ -10,6 +10,8 @@ h1 {
 h2 {
   font-family: "Montserrat", sans-serif;
   color: #2b2723;
+  margin: 10px;
+  padding: 10px;
 }
 
 .card {
